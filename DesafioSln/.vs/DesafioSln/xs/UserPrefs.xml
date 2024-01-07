@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9466C621-8F27-44B0-BE11-085EB8630C69}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesafioAPI/Program.cs">
+    <Files>
+      <File FileName="DesafioAPI/Automapper/Automapper.cs" />
+      <File FileName="DesafioAPI/Context/EstateAgencyContext.cs" />
+      <File FileName="DesafioAPI/Validators/RealStateValidator.cs" />
+      <File FileName="DesafioAPI/Validators/UserValidator.cs" />
+      <File FileName="DesafioAPI/Respositories/Interfaces/IRealStateRepository.cs" />
+      <File FileName="DesafioAPI/Respositories/Interfaces/IUserRepository.cs" />
+      <File FileName="DesafioAPI/Respositories/RealStateRepository.cs" />
+      <File FileName="DesafioAPI/Respositories/UserRepository.cs" />
+      <File FileName="DesafioAPI/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesafioSln" expanded="True">
+            <Node name="DesafioAPI" expanded="True">
+              <Node name="Automapper" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DesafioAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
